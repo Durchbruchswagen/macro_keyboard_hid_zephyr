@@ -6,6 +6,4 @@
 
 zephyr_include_directories(include)
 
-add_subdirectory(drivers)
-add_subdirectory(lib)
 project(makro_hid_keyboard)	
